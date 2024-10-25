@@ -12,6 +12,7 @@
         "intellsmi.comment-translate",
         "streetsidesoftware.code-spell-checker",
         "ms-azuretools.vscode-docker",
+        "yzhang.markdown-all-in-one",
         "golang.go"
       ]
     }
